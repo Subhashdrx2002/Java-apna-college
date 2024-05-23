@@ -1,3 +1,4 @@
+
 public class sumvariable {
      public static void main(String[] args) {
         // sum of two varibale
