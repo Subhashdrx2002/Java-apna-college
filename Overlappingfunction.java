@@ -1,0 +1,18 @@
+public class Overlappingfunction {
+    // func to call int sum
+        public static int sum(int a, int b){
+            return a+b;
+        }
+        // function to call flaot sum
+        public static float sum(float a, float b) {
+            return a+b;
+            
+        }
+        public static void main(String[] args) {
+            System.out.println(sum(5, 3));
+            System.out.println(sum(5.2f , 7.4f));
+    
+        }
+  
+    
+}
